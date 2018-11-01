@@ -6,3 +6,5 @@ goimport ignore this imports and doesn't rearrange it.
 
 This small utility written in Go takes filename as only one argument and remove al blank lines (degrouping) import section. 
 So after that file can be secsesfully processed by goimports.
+
+You can also use it in Intellij Goland in File Watchers before goimports to automatised imports rearrange process.
